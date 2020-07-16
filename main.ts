@@ -12,7 +12,7 @@ sum;
 // Random Value
 const r = arr[Math.floor(Math.random() * arr.length)];
 r;
- 
+
 // Value by Index
 const valueByIndex = arr[0];
 valueByIndex;
